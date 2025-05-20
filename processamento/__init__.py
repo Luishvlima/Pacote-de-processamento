@@ -1,0 +1,1 @@
+from .core import processar_dados
